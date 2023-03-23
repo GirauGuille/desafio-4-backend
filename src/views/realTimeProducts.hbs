@@ -1,0 +1,22 @@
+<h1>Productos en el carrito en tiempo real</h1>
+
+<section id="productsContainer"></section>
+
+<h2>Agregar producto</h2>
+
+<form id="formularioAddProduct">
+  <input type="text" id="title" name="title" placeholder="Title" />
+  <input
+    type="text"
+    id="description"
+    name="description"
+    placeholder="Description"
+  />
+  <input type="number" id="price" name="price" placeholder="Price" />
+  <input type="text" id="thumbnail" name="thumbnail" placeholder="Thumbnail" />
+  <input type="text" id="category" name="category" placeholder="Category" />
+  <input type="number" id="stock" name="stock" placeholder="Stock" />
+  <input type="button" value="Agregar" onclick="addProduct()"></input>
+</form>
+
+<script src="/js/views.js"></script>

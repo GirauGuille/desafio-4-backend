@@ -1,0 +1,111 @@
+[
+{
+    "title": "Mouse",
+    "description": "MOUSE LOGITECH G502 WIRELESS GAMING LIGHTSPEED 910-005566",
+    "category": "periferico",
+    "price": 32000,
+    "thumbnail": "https://www.fullh4rd.com.ar/img/productos/Pics_Prod/mouse-logitech-g502-wireless-gaming-lightspeed-910005566-0.jpg",
+    "code": "ABC0001",
+    "stock": 10,
+    "status": true,
+    "id": 1
+},
+{
+    "title": "Teclado",
+    "description": "Teclado Philips Spk6224",
+    "category": "periferico",
+    "price": 2800,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_813667-MLA52295993316_112022-O.webp",
+    "code": "ABC0002",
+    "stock": 5,
+    "status": true,
+    "id": 2
+},
+{
+    "title": "Monitor",
+    "description": "MONITOR LED SAMSUNG LF24T350FHLCZB",
+    "category": "monitores",
+    "price": 62000,
+    "thumbnail": "https://medias.musimundo.com/medias/00406003-177457-177457-01.png-177457-01.png-size515?context=bWFzdGVyfGltYWdlc3wzMzkzNzN8aW1hZ2UvcG5nfGhlZi9oZDAvMTA0MzQwNTUzMDcyOTQvMDA0MDYwMDMtMTc3NDU3LTE3NzQ1N18wMS5wbmctMTc3NDU3XzAxLnBuZ19zaXplNTE1fGM1MTI1NDI5MzAxM2VhYjU1MzZjNTgxODk1MmVlMmQ2MGZkZTg1NDMwMmI2ZThlNWIwOThjODY0MWIyMDg2MzE",
+    "code": "ABC0003",
+    "stock": 4,
+    "status": true,
+    "id": 3
+},
+{
+    "title": "Memoria vengeance",
+    "description": "MEMORIA DDR4 16GB (2X8GB) 2666MHZ VENGEANCE RGB PRO BLACK",
+    "category": "memoria ram",
+    "price": 35000,
+    "thumbnail": "https://front.dev.malditohard.com.ar/img/migration/MEMORIA-DDR4-16GB-2X8GB-2666MHZ-VENGEANCE-RGB-PRO-BLACK.webp",
+    "code": "ABC0004",
+    "stock": 15,
+    "status": true,
+    "id": 4
+},
+{
+    "title": "Disco solido kingston",
+    "description": "Disco sólido interno Kingston SA400S37/240G 240GB negro",
+    "category": "Disco solido",
+    "price": 8000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_825890-MLA54124091906_032023-F.webp",
+    "code": "ABC0005",
+    "stock": 5,
+    "status": true,
+    "id": 5
+},
+{
+    "title": "Parlante Genius",
+    "description": "Parlante Genius Usb SP-HF180 Negro",
+    "category": "periferico",
+    "price": 6000,
+    "thumbnail": "https://images.fravega.com/f1000/a402e16d2dd93ac2f1059285c6f676ea.jpg.webp",
+    "code": "ABC0006",
+    "stock": 5,
+    "status": true,
+    "id": 6
+},
+{
+    "title": "Gabinete Level up",
+    "description": "Gabinete Level Up Gamer Cassiopeia Atx Vidrio Templado X1 Fan Rgb",
+    "category": "gabinete",
+    "price": 18000,
+    "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/376/MKT0086ACE_10.jpg",
+    "code": "ABC0007",
+    "stock": 20,
+    "status": true,
+    "id": 7
+},
+{
+    "title": "Placa de video Palit",
+    "description": "PLACA DE VIDEO PALIT NVIDIA GEFORCE GTX 1660 6GB DUAL",
+    "category": "Placa de video",
+    "price": 130000,
+    "thumbnail": "https://www.venex.com.ar/products_images/1675347071_imagen.png",
+    "code": "ABC0008",
+    "stock": 6,
+    "status": true,
+    "id": 8
+},
+{
+    "title": "MOTHERBOARD MSI",
+    "description": "MOTHERBOARD MSI MPG B550 GAMING PLUS AM4",
+    "category": "motherboard",
+    "price": 63000,
+    "thumbnail": "https://www.venex.com.ar/products_images/1674828979_msi-3.png",
+    "code": "ABC0009",
+    "stock": 8,
+    "status": true,
+    "id": 9
+},
+{
+    "title": "Monitor LG",
+    "description": "Monitor Led 26' LG Full Hd UltraWide 75Hz 5Ms 26WQ500-B",
+    "price": 86000,
+    "thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Monitor-Led-26-LG-Full-Hd-UltraWide-75Hz-5Ms-26WQ500-B_43083_2.jpeg",
+    "code": "ABC00010",
+    "stock": 9,
+    "status": true,
+    "id": 10
+}
+]

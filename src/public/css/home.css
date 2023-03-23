@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.img {
+  width: 80px;
+  height: 80px;
+}
+
+.tableContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
